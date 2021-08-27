@@ -22,8 +22,8 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring" width="26px" src="https://avatars.githubusercontent.com/u/1134463?v=4" />
-<img align="left" alt="Hibernate" width="26px" src="https://thumbnail.imgbin.com/8/10/21/imgbin-hibernate-spring-framework-java-persistence-api-java-annotation-others-UrSE4GD52Q0gcubha7EGEj7h8_t.jpg" />
+<img align="left" alt="Spring" width="26px" src="https://avatars.githubusercontent.com/u/1134463?v=4"/>
+<img align="left" alt="Hibernate" width="26px" src="https://avatars.githubusercontent.com/u/348262?s=200&v=4"/>
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
