@@ -1,9 +1,7 @@
 <h1> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <br>
-I am a developer, web designer and a lot of things in between. You can define me as a software engineer. I love to see how things work in depth, make things, break things and make things that break things.😄
-In my spare time, I enjoy gaming, cinematography, and reading document.
-<br />
-
+<p><em>I am a developer, web designer and a lot of things in between. You can define me as a software engineer. I love to see how things work in depth, make things, break things and make things that break things.😄
+In my spare time, I enjoy gaming, cinematography, and reading document.<em><p>
 - 🌱 I’m currently learning on Post And Telecommunications Institute of Technology
 <br>
 - 👯 I’m looking to collaborate on an internship for a Backend or FullStack position
