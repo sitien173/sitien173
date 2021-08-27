@@ -4,7 +4,7 @@
 In my spare time, I enjoy gaming, cinematography, and reading document.<em><p>
 - 🌱 I’m currently learning on Post And Telecommunications Institute of Technology
 <br>
-- 👯 I’m looking to collaborate on an internship for a Backend or FullStack position
+- 👯 ...
 <br>
 - 🤔 ...
 <br>
