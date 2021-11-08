@@ -25,6 +25,9 @@ I am a developer, web designer and a lot of things in between. You can define me
 </p>
 
 <h3 align="left">Languages: </h3>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
       <img
