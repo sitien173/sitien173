@@ -15,8 +15,8 @@
   <h3 align="left">Frameworks</h3>
    <p align="center">
     <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"
-      alt="Spring Boot"
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+      alt="Spring"
     />
   </a>
      <a href="#" target="_blank">
