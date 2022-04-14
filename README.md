@@ -1,42 +1,43 @@
 <h1 align="center">Hi 👋, I'm TIEN <img src="https://komarev.com/ghpvc/?username=sitien173&label=Profile%20views&color=0e75b6&style=flat" alt="sitien173" /></h1>
-
-- 🌱 I’m currently learning **Posts and Telecommunications Institute of Technology HCM Branch**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sitien173?tab=repositories](https://github.com/sitien173?tab=repositories)
-
-- 💬 Ask me about **Any Project**
-
-- 📫 How to reach me **sitienbmt@gmail.com**
-
-- ⚡ Fun fact **cheerful and sociable personality**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitien173" alt="sitien173" /></a> </p>
 <h3 align="left">Main Languages: </h3>
-<p align="center">
+ <p align="center">
      <a href="https://www.java.com" target="_blank">
       <img src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"
         alt="java"
       />
     </a>
-  
+  <a href="https://www.java.com" target="_blank">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+        alt="C#"
+      />
+    </a>
   </p>
-  <h3 align="left">Frameworks, Platforms </h3>
+  <h3 align="left">Frameworks</h3>
    <p align="center">
     <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"
       alt="Spring Boot"
     />
   </a>
-    <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"
-      alt="Hibernate"
-    />
-  </a>
      <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      alt="React"
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+      alt=".Net"
     />
   </a>
 </p>
+<h3 align="left">IDE: </h3>
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"
+      alt="Visual Studio"
+    />
+  </a>
+     <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
+      alt="IntelliJ IDEA"
+    />
+  </a>
+     </p>
  <h3 align="left">Social: </h3>
    <p align="center">
   <a href="mailto:sitienbmt@gmail.com" target="_blank">
@@ -67,5 +68,7 @@
 <div>
 <img style="width:45%" src="https://github-readme-stats.vercel.app/api?username=sitien173&show_icons=true&locale=en" alt="sitien173" />
 <img style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sitien173&" alt="sitien173" />
+<br>
+<img style="width:92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sitien173&theme=vue" alt="sitien173" />
 </div>
 
