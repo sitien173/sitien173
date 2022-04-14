@@ -24,6 +24,11 @@
       alt=".Net"
     />
   </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/ORM%20Framework-D14836?style=for-the-badge&logo=orm&logoColor=white"
+      alt="OMR"
+    />
+  </a>
 </p>
 <h3 align="left">IDE: </h3>
 <p align="center">
